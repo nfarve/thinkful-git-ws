@@ -5,7 +5,7 @@ Git is a version-control system that tracks changes made to files and allows for
 hello world
 ## Git
 
-* What is Bitbucket  * GitHub is the most popular site for remotely saving our code and collaborating with other developers on open source projects
+* What is Bitbucket and Github  * GitHub is the most popular site for remotely saving our code and collaborating with other developers on open source projects
 * Local & Remote Branches
   * Local - branch stored on your personal computer
   * Remote - branch stored in a separate repository, like GitHub, Bitbucket, GitLab, etc
